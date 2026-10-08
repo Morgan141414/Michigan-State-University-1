@@ -1,0 +1,1 @@
+Ambient audio is generated procedurally at runtime by `SolarSystemAudio.cs`, so the project has no external audio dependency.
